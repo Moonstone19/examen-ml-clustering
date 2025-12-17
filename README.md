@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce projet a été réalisé dans le cadre de l’examen de Machine Learning.
+Ce projet a été réalisé dans le cadre de mon examen de Machine Learning.
 Il consiste à appliquer un algorithme de clustering (KMeans) sur un jeu
 de données réel, puis à développer une application interactive pour
 visualiser les résultats.
@@ -26,7 +26,7 @@ https://archive.ics.uci.edu/dataset/488/facebook+live+sellers+in+thailand
 
 ## Application
 
-Une application Streamlit a été développée afin de :
+j'ai developpee application Streamlit afin de :
 
 - Visualiser tous les clusters
 - Visualiser chaque cluster séparément
@@ -43,4 +43,5 @@ Une application Streamlit a été développée afin de :
 
 Rita Marie Chambaz  
 Licence 3 – Big Data  
-Dakar Institute of Technology
+Dakar Institute of Technology (DIT)
+
