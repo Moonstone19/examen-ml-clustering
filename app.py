@@ -1,7 +1,8 @@
 import streamlit as st
-import pandas as pd
-import matplotlib
-matplotlib.use("Agg")
-import matplotlib.pyplot as plt
-from sklearn.cluster import KMeans
-from sklearn.preprocessing import StandardScaler
+
+st.set_page_config(page_title="Clustering ML", layout="centered")
+
+st.title("✅ Application de Clustering")
+st.write("Si ce message s'affiche, Streamlit fonctionne correctement.")
+
+st.success("Application chargée sans erreur 🎉")
